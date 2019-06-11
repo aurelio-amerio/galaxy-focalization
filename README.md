@@ -10,3 +10,6 @@ I have tried several techniques, the most promising is possibly the use of trans
 Here you can see in the column "original" the test set image to which was added a Gaussian radial blur, the "noisy" image and the one "reconstructed" by the Convolutional Neural Network.
 
 In this proof of concept all of the sources had the same intensity. For further experiments one may want to use sources of **different** intensities, add other kinds of noise and train the model longer. 
+
+**Warning:**
+The dataset is 450Mb big and has to be generated through the provided script and saved in "data/img_256x256_v5/"
