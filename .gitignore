@@ -33,4 +33,5 @@
 
 /cmake-build-debug
 /.idea
-/src/data/*
+
+src/data/img_256x256_v5/desktop\.ini
